@@ -1,6 +1,6 @@
 #NOTE: Please remove any commented lines to tidy up prior to releasing the package, including this one
 
-$packageName = 'SeleniumServer' # arbitrary name for the package, used in messages
+$packageName = 'SeleniumHub' # arbitrary name for the package, used in messages
 $installPath="c:\$packageName"
 
 try {
