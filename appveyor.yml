@@ -1,0 +1,10 @@
+version: '{build}-{branch}'
+
+install:
+  - choco pack
+
+build: off
+
+artifacts:
+  - path: '*.nupkg'
+    name: SeleniumHub
